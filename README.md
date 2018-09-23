@@ -1,3 +1,14 @@
+## Implementation
+Code in repository generates 4 png files with plots as listed at the end of this document.
+Repository includes 5 files:
+<li><b>run.R</b>: import and unzip dataset; calls functions generating png file - plot*.R</li>
+<li><b>plot1.R</b>: generates plot1.png</li>
+<li><b>plot2.R</b>: generates plot2.png</li>
+<li><b>plot3.R</b>: generates plot3.png</li>
+<li><b>plot4.R</b>: generates plot4.png</li>
+
+Note: All scirpts needs to be in working directory. plot*.png will be saved to working directory. All input data files will be removed at the end of the script.
+
 ## Introduction
 
 This assignment uses data from
@@ -111,4 +122,3 @@ The four plots that you will need to construct are shown below.
 ### Plot 4
 
 ![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
-
