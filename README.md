@@ -7,7 +7,14 @@ Repository includes 5 files:
 <li><b>plot3.R</b>: generates plot3.png</li>
 <li><b>plot4.R</b>: generates plot4.png</li>
 
-Note: All scirpts needs to be in working directory. plot*.png will be saved to working directory. All input data files will be removed at the end of the script.
+
+<b>Note:</b>
+
+All scirpts needs to be in working directory. 
+
+plot*.png will be saved to working directory. 
+
+All input data files will be removed at the end of the script.
 
 ## Introduction
 
